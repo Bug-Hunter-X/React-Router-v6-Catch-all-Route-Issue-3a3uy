@@ -1,0 +1,1 @@
+This repository demonstrates a subtle issue in React Router v6 related to the catch-all route (`path="/*"`).  The problem arises when using nested routes in conjunction with a catch-all route.  This example showcases the incorrect behavior and provides a solution.
